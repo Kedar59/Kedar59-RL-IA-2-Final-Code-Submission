@@ -1,0 +1,4 @@
+Type,Traffic delay,Probability
+High,1.25,0.3
+Medium,1,0.5
+Low,0.95,0.2

@@ -1,0 +1,10 @@
+Source - Destination,Thane Up,Mulund Up,Vikhroli Up,Ghatkopar Up,Sion Dn,Ghatkopar Dn,Vikhroli Dn,Mulund Dn,Thane Dpt
+Thane Up,-,-,-,-,-,-,-,-,-
+Mulund Up,0.3,-,-,-,-,-,-,-,-
+Vikhroli Up,0.1,0.05,-,-,-,-,-,-,-
+Ghatkopar Up,0.3,0.2,0.1,-,-,-,-,-,-
+Sion Dn,0.3,0.75,0.9,1,-,-,-,-,-
+Ghatkopar Dn,-,-,-,-,0.3,-,-,-,-
+Vikhroli Dn,-,-,-,-,0.1,0.2,-,-,-
+Mulund Dn,-,-,-,-,0.3,0.5,0.4,-,-
+Thane Dpt,-,-,-,-,0.3,0.3,0.6,1,-
